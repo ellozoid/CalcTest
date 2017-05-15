@@ -1,0 +1,6 @@
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest\bin\Debug\CalcTest.exe.config
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest\bin\Debug\CalcTest.exe
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest\bin\Debug\CalcTest.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest\obj\Debug\CalcTest.exe
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest\obj\Debug\CalcTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\bin\Debug\CalcTest1.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\bin\Debug\CalcTest1.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\bin\Debug\CalcLibrary.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\bin\Debug\CalcLibrary.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\obj\Debug\CalcTest1.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcTest1\obj\Debug\CalcTest1.pdb
