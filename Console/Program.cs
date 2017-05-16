@@ -14,27 +14,35 @@ namespace Console
         {
             var test = new Calc();
 
-            int x;
-            int.TryParse(args[0], out x);
+            double x;
+            double.TryParse(args[0], out x);
 
-            int y;
-            int.TryParse(args[1], out y);
+            double y;
+            double.TryParse(args[1], out y);
 
-            double result = 0; // = test.Sum(x, y);
+            //double result = 0; // = test.Sum(x, y);
 
             var operation = args[2];
 
-            if(operation == "sum")
-            {
-                result = test.Sum(x, y);
+            //if(operation == "sum")
+            //{
+            //    result = test.Sum(x, y);
 
-            }else if(operation == "divide")
+            //}else if(operation == "divide")
+            //{
+            //    result = test.Divide(x, y);
+            //}
+            var result = test.Execute(operation, new object[] { x, y });
+            if (result.ToString() == "Error")
             {
-                result = test.Divide(x, y);
+                Output.WriteLine("Error, operation not found");
+                Output.ReadKey();
             }
-
-            Output.WriteLine("{0} {1} {2} = {3}", x, operation, y, result);
-            Output.ReadKey();
+            else
+            {
+                Output.WriteLine("{0} {1} {2} = {3}", x, operation, y, (double)result);
+                Output.ReadKey();
+            }    
         }
     }
 }

@@ -10,6 +10,6 @@ namespace CalcLibrary
     {
         string Name { get; }
 
-        double Calc(int x, int y);
+        double Calc(double x, double y);
     }
 }

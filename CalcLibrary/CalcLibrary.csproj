@@ -41,9 +41,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calc.cs" />
+    <Compile Include="DefaultOperations\DivideOperation.cs" />
+    <Compile Include="DefaultOperations\MultiplyOperation.cs" />
+    <Compile Include="DefaultOperations\PowerOperation.cs" />
     <Compile Include="IOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SumOperation.cs" />
+    <Compile Include="DefaultOperations\SumOperation.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

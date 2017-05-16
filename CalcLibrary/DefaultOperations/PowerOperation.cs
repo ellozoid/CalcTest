@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalcLibrary
+namespace CalcLibrary.DefaultOperations
 {
-    class SumOperation : IOperation
+    class PowerOperation : IOperation
     {
         public string Name
         {
             get
             {
-                return "sum";
+                return "power";
             }
         }
 
-        public double Calc(int x, int y)
+        public double Calc(double x, double y)
         {
-            return x + y;
+            return Math.Pow(x, y);
         }
     }
 }

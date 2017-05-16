@@ -2,4 +2,3 @@ C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcLibrary\bin\D
 C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcLibrary\bin\Debug\CalcLibrary.pdb
 C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcLibrary\obj\Debug\CalcLibrary.dll
 C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcLibrary\obj\Debug\CalcLibrary.pdb
-C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\CalcLibrary\obj\Debug\CalcLibrary.csprojResolveAssemblyReference.cache

@@ -54,27 +54,27 @@ namespace CalcLibrary
             }
             //если нашли
             //разбираем аргументы
-            int x;
-            int.TryParse(args[0].ToString(), out x);
+            double x;
+            double.TryParse(args[0].ToString(), out x);
 
-            int y;
-            int.TryParse(args[1].ToString(), out y);
+            double y;
+            double.TryParse(args[1].ToString(), out y);
 
+            var result = oper.Calc(x, y);
 
-
-            oper
+            return result;
         }
 
         [Obsolete("Не используйте")]
-        public int Sum(int x, int y)
+        public double Sum(double x, double y)
         {
-            var t = Execute("sum", new object[] { x, y });
-            return int.Parse(t.ToString());
+            return (double)Execute("sum", new object[] { x, y });
+            //return int.Parse(t.ToString());
         }
 
-        public double Divide(int x, int y)
+        public double Divide(double x, double y)
         {
-            return (int)Execute("divide", new object[] { x, y });
+            return (double)Execute("divide", new object[] { x, y });
             //return y == 0 ? Double.NaN : x * 1D / y;
         }
     }
