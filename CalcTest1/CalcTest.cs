@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CalcTest1
+namespace CalcTest
 {
     [TestClass]
     public class CalcTest
@@ -25,6 +25,14 @@ namespace CalcTest1
             Assert.AreEqual(result1, 1);
             Assert.AreEqual(result2, 2);
             Assert.AreEqual(result3, 0);
+
+            var res = test.Execute("divide", new object[] { 1, 2 });
+            var res1 = test.Execute("divide", new object[] { 9, 2 });
+            var res2 = test.Execute("divide", new object[] { 0, 2 });
+            var res3 = test.Execute("divide", new object[] { 1, 0 });
+            var res4 = test.Execute("divide", new object[] { double.NaN, 2 });
+
+
         }
     }
 }

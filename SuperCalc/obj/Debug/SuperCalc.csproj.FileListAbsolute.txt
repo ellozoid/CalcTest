@@ -1,0 +1,22 @@
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\bin\Debug\SuperCalc.exe.config
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\bin\Debug\SuperCalc.exe
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\bin\Debug\SuperCalc.pdb
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\bin\Debug\CalcLibrary.dll
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\bin\Debug\CalcLibrary.pdb
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\obj\Debug\SuperCalc.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\obj\Debug\SuperCalc.Form1.resources
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\obj\Debug\SuperCalc.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\obj\Debug\SuperCalc.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\obj\Debug\SuperCalc.exe
+C:\Users\Bogdan\Desktop\CalcTest-master\CalcTest\SuperCalc\obj\Debug\SuperCalc.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\bin\Debug\SuperCalc.exe.config
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\obj\Debug\SuperCalc.exe
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\obj\Debug\SuperCalc.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\bin\Debug\SuperCalc.exe
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\bin\Debug\SuperCalc.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\bin\Debug\CalcLibrary.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\bin\Debug\CalcLibrary.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\obj\Debug\SuperCalc.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\obj\Debug\SuperCalc.Form1.resources
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\obj\Debug\SuperCalc.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\SuperCalc\obj\Debug\SuperCalc.csproj.GenerateResource.Cache

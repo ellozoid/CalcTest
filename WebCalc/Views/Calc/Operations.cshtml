@@ -1,0 +1,25 @@
+﻿@model WebCalc.Models.OperationViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Operations</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Operation)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Operations) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Value)
+        </td>
+    </tr>
+}
+
+</table>

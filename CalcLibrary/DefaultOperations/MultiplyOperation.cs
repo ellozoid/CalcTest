@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalcLibrary.DefaultOperations
 {
-    class MultiplyOperation : IOperation
+    class MultiplyOperation : IOperationArgs
     {
         public string Name
         {
@@ -14,6 +14,11 @@ namespace CalcLibrary.DefaultOperations
             {
                 return "multiply";
             }
+        }
+
+        public double Calc(IEnumerable<double> args)
+        {
+            throw new NotImplementedException();
         }
 
         public double Calc(double x, double y)

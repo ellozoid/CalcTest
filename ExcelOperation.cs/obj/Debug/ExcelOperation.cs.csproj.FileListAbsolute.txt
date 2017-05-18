@@ -1,0 +1,7 @@
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\bin\Debug\ExcelOperation.cs.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\bin\Debug\ExcelOperation.cs.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\bin\Debug\CalcLibrary.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\bin\Debug\CalcLibrary.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\obj\Debug\ExcelOperation.cs.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\obj\Debug\ExcelOperation.cs.dll
+C:\Users\Bogdan\Documents\Visual Studio 2015\Projects\CalcTest\ExcelOperation.cs\obj\Debug\ExcelOperation.cs.pdb

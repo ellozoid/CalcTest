@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalcLibrary.DefaultOperations
 {
-    class SumOperation : IOperation
+    class SumOperation : IOperationArgs
     {
         public string Name
         {
@@ -14,6 +14,11 @@ namespace CalcLibrary.DefaultOperations
             {
                 return "sum";
             }
+        }
+
+        public double Calc(IEnumerable<double> args)
+        {
+            return args.Sum();
         }
 
         public double Calc(double x, double y)
